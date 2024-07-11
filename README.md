@@ -1,13 +1,11 @@
 # Kings and Pigs
 
-## YouTube
+Projeto de jogo de navegador desenvolvido com assets gratuitos. Tudo desenvolvido como parte de um estudo acompanhando tutorial no YouTube.
 
-https://www.youtube.com/watch?v=Lcdc2v-9PjA&list=WL&index=1&t=16s
+## Links
 
-### GitHub
+[YouTube](https://www.youtube.com/watch?v=Lcdc2v-9PjA&list=WL&index=1)
 
-https://github.com/chriscourses/kings-and-pigs
+[GitHub](https://github.com/chriscourses/kings-and-pigs)
 
-## Google Drive
-
-https://drive.google.com/drive/u/0/folders/1xNk8cw47XQvSHclMRuC5VhxUoklBepr1
+[Google Drive](https://drive.google.com/drive/u/0/folders/1xNk8cw47XQvSHclMRuC5VhxUoklBepr1)
